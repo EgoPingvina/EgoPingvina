@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![Repos Badge](https://badges.pufler.dev/repos/EgoPingvina)](https://github.com/EgoPingvina?tab=repositories)
+[![Gists Badge](https://badges.pufler.dev/gists/EgoPingvina)](https://gist.github.com/EgoPingvina)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=EgoPingvina.EgoPingvina)
 
 ## StackOverflow
