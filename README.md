@@ -15,8 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![HamiltonPharmD StackOverflow](https://stackoverflow-badge.vercel.app/?userID=7028019)](https://stackoverflow.com/users/7028019/egopingvina)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=EgoPingvina.EgoPingvina)
+
+## StackOverflow
+
+[![StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=7028019)](https://stackoverflow.com/users/7028019/egopingvina)
 
 
 ## &#x1f4c8; GitHub Public Stats
