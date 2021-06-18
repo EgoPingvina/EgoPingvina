@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=EgoPingvina.EgoPingvina)
 
 
-## &#x1f4c8; GitHub Stats
+## &#x1f4c8; GitHub Public Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=EgoPingvina&show_icons=true&count_private=true&line_height=20&theme=default)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EgoPingvina&layout=compact&langs_count=6)
