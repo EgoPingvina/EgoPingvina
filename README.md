@@ -19,9 +19,7 @@ Here are some ideas to get you started:
 [![Gists Badge](https://badges.pufler.dev/gists/EgoPingvina)](https://gist.github.com/EgoPingvina)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=EgoPingvina.EgoPingvina)
 
-## StackOverflow
-
-[![StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=7028019)](https://stackoverflow.com/users/7028019/egopingvina)
+[![StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=7028019&layout=compact)](https://stackoverflow.com/users/7028019/egopingvina)
 
 
 ## &#x1f4c8; GitHub Public Stats
