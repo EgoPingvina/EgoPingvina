@@ -1,6 +1,5 @@
 [![Repos Badge](https://badges.strrl.dev/repos/EgoPingvina)](https://github.com/EgoPingvina?tab=repositories)
 [![Gists Badge](https://badges.strrl.dev/gists/EgoPingvina)](https://gist.github.com/EgoPingvina)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=EgoPingvina.EgoPingvina)
 
 [![StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=7028019&layout=compact)](https://stackoverflow.com/users/7028019/egopingvina)
 
